@@ -1,0 +1,12 @@
+obj/
+bin/
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.svn
+*.DS_Store
+[Tt]humbs.db 
+Ankh.NoLoad

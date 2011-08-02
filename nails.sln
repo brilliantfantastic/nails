@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCleaner", "DatabaseCleaner\DatabaseCleaner.csproj", "{54688625-0EB8-451B-B906-0E0E625E6E24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{532A6FF6-A933-4DBE-BFBC-8A7E9DE11E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCleaner.Tests", "DatabaseCleaner.Tests\DatabaseCleaner.Tests.csproj", "{5EB48F97-302E-482B-B7BE-D222EAFEDAE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54688625-0EB8-451B-B906-0E0E625E6E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54688625-0EB8-451B-B906-0E0E625E6E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54688625-0EB8-451B-B906-0E0E625E6E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54688625-0EB8-451B-B906-0E0E625E6E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB48F97-302E-482B-B7BE-D222EAFEDAE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB48F97-302E-482B-B7BE-D222EAFEDAE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB48F97-302E-482B-B7BE-D222EAFEDAE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB48F97-302E-482B-B7BE-D222EAFEDAE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5EB48F97-302E-482B-B7BE-D222EAFEDAE9} = {532A6FF6-A933-4DBE-BFBC-8A7E9DE11E02}
+	EndGlobalSection
+EndGlobal
